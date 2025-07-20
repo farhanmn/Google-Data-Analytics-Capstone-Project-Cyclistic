@@ -95,7 +95,7 @@ The cleaned data is imported into Tableau for analysis and the figures plotted a
 
 The figure below shows the **total number of rides** carried out by Cyclistic members and casual riders in **2024** and **2025**.
 
-Membership Types
+1[Membership Types](https://github.com/farhanmn/Google-Data-Analytics-Capstone-Project-Cyclistic/blob/dee94b03d0f51858af608f779fba88cf7b88751f/assets/01_member_type.png)
 
 - **Cyclistic members** recorded a **greater bicycle activity** than casual riders. The total rides for Cyclistic members are 2,105,232 while 1,185,880 trips for casual riders.
 - **Cyclistic members** accounted for about **63.9%** of total rides whereas casual riders made up **36.03%** of total rides in 2022.
@@ -104,7 +104,7 @@ Membership Types
 
 The types of bicycles used for the trips are displayed as follow:
 
-Types of Bikes
+![Types of Bikes](https://github.com/farhanmn/Google-Data-Analytics-Capstone-Project-Cyclistic/blob/dee94b03d0f51858af608f779fba88cf7b88751f/assets/02_type_of_bikes.png)
 
 - There are **three types of bicycles**: <ins>_classic bike, electric bike and docked scooter_</ins>.
 - Cyclistic members and casual riders prefer show a higher preference for **classic bike over electric bike**.
@@ -112,13 +112,13 @@ Types of Bikes
 
 ### - Average Ride Duration
 
-Avg Ride Length (Year)
+![Avg Ride Length (Year)](https://github.com/farhanmn/Google-Data-Analytics-Capstone-Project-Cyclistic/blob/dee94b03d0f51858af608f779fba88cf7b88751f/assets/03_avg_ride_length.png)
 
 - **Cyclistic members** can ride on the bicycles for about **11.91 minutes** on average whereas **casual riders** have an average ride length of **23.12 minutes**. Hence, the ride duration of Cyclistic members are approximately two times smaller than casual riders.
 
 ### - Trips Taken in a Month
 
-Total Rides (Month)
+![Total Rides (Month)](https://github.com/farhanmn/Google-Data-Analytics-Capstone-Project-Cyclistic/blob/dee94b03d0f51858af608f779fba88cf7b88751f/assets/04_monthly_total_rides.png)
 
 - Both Cyclistic members and casual riders have the **lowest activity**, 143,032 rides and 16,678 rides in **January 2025**.
 - Both **cyclistic members** and **Casual riders** have the **highest activity** (224,275 and 305,007 rides) in **August 2025**.
@@ -127,13 +127,13 @@ Total Rides (Month)
 
 The mean trip duration is depicted in the line graph below.
 
-Avg Ride Length (Month)
+![Avg Ride Length (Month)](https://github.com/farhanmn/Google-Data-Analytics-Capstone-Project-Cyclistic/blob/dee94b03d0f51858af608f779fba88cf7b88751f/assets/05_monthly_average_rides_length.png)
 
 - The monthly average ride duration for **Cyclistic members** and **casual riders** are the **highest** in **June** (65.4 and 201.09 minutes).
 
 ### - Trips Taken in a Week
 
-Total Rides (Week)
+1[Total Rides (Week)](https://github.com/farhanmn/Google-Data-Analytics-Capstone-Project-Cyclistic/blob/dee94b03d0f51858af608f779fba88cf7b88751f/assets/06_weekly_total_rides.png)
 
 - **Cyclistic members** have the **highest activity** (333,982 rides) on **Wednesday** while the **lowest activity** (228,917 rides) on **Sunday**.
 - **Casual riders** have the **greatest activity** (248,759 rides) on **Saturday** while the **least activity** (126,697 rides) on **Tuesday**.
@@ -141,11 +141,13 @@ Total Rides (Week)
 
 ### - Average Ride Length in a Week
 
-Avg Ride Length (Week)
+![Avg Ride Length (Week)](https://github.com/farhanmn/Google-Data-Analytics-Capstone-Project-Cyclistic/blob/dee94b03d0f51858af608f779fba88cf7b88751f/assets/07_weekly_average_rides_length.png)
 
 - Both **casual riders** and **cyclistic members** cycled the **longest on Sunday** with an average ride length of 13.49 and 26.64 minutes.
 
 ### 5. Share
+
+![dashboard](https://github.com/farhanmn/Google-Data-Analytics-Capstone-Project-Cyclistic/blob/4972283358c0126b9bc8d85e13a063d436957309/assets/08_dashboard.png)
 
 The similiarities and differences between Cyclistic members and casual riders were drawn from the dashboard above.
 
