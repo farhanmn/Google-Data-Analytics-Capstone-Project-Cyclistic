@@ -95,7 +95,7 @@ The cleaned data is imported into Tableau for analysis and the figures plotted a
 
 The figure below shows the **total number of rides** carried out by Cyclistic members and casual riders in **2024** and **2025**.
 
-1[Membership Types](https://github.com/farhanmn/Google-Data-Analytics-Capstone-Project-Cyclistic/blob/dee94b03d0f51858af608f779fba88cf7b88751f/assets/01_member_type.png)
+![Membership Types](https://github.com/farhanmn/Google-Data-Analytics-Capstone-Project-Cyclistic/blob/dee94b03d0f51858af608f779fba88cf7b88751f/assets/01_member_type.png)
 
 - **Cyclistic members** recorded a **greater bicycle activity** than casual riders. The total rides for Cyclistic members are 2,105,232 while 1,185,880 trips for casual riders.
 - **Cyclistic members** accounted for about **63.9%** of total rides whereas casual riders made up **36.03%** of total rides in 2022.
