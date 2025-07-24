@@ -120,8 +120,8 @@ The types of bicycles used for the trips are displayed as follow:
 
 ![Total Rides (Month)](https://github.com/farhanmn/Google-Data-Analytics-Capstone-Project-Cyclistic/blob/dee94b03d0f51858af608f779fba88cf7b88751f/assets/04_monthly_total_rides.png)
 
-- Both Cyclistic members and casual riders have the **lowest activity**, 143,032 rides and 16,678 rides in **January 2025**.
-- Both **cyclistic members** and **Casual riders** have the **highest activity** (224,275 and 305,007 rides) in **August 2025**.
+- Both Cyclistic members and casual riders have the **lowest activity**, 81,132 rides and 16,678 rides in **January 2025**.
+- Both **cyclistic members** and **Casual riders** have the **highest activity** (305,007 and 224,275 rides) in **August 2025**.
 
 ### - Average Ride Length in a Month
 
@@ -129,14 +129,14 @@ The mean trip duration is depicted in the line graph below.
 
 ![Avg Ride Length (Month)](https://github.com/farhanmn/Google-Data-Analytics-Capstone-Project-Cyclistic/blob/dee94b03d0f51858af608f779fba88cf7b88751f/assets/05_monthly_average_rides_length.png)
 
-- The monthly average ride duration for **Cyclistic members** and **casual riders** are the **highest** in **June** (65.4 and 201.09 minutes).
+- The monthly average ride duration for **Cyclistic members** and **casual riders** are the **highest** in **July** (13.74 and 27.73 minutes).
 
 ### - Trips Taken in a Week
 
-1[Total Rides (Week)](https://github.com/farhanmn/Google-Data-Analytics-Capstone-Project-Cyclistic/blob/dee94b03d0f51858af608f779fba88cf7b88751f/assets/06_weekly_total_rides.png)
+![Total Rides (Week)](https://github.com/farhanmn/Google-Data-Analytics-Capstone-Project-Cyclistic/blob/dee94b03d0f51858af608f779fba88cf7b88751f/assets/06_weekly_total_rides.png)
 
 - **Cyclistic members** have the **highest activity** (333,982 rides) on **Wednesday** while the **lowest activity** (228,917 rides) on **Sunday**.
-- **Casual riders** have the **greatest activity** (248,759 rides) on **Saturday** while the **least activity** (126,697 rides) on **Tuesday**.
+- **Casual riders** have the **highest activity** (248,759 rides) on **Saturday** while the **least activity** (126,697 rides) on **Tuesday**.
   <br>
 
 ### - Average Ride Length in a Week
